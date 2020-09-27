@@ -3,7 +3,7 @@
 This repository consists of every source files I will be creating for the Java Session you can use it for revising topics or for learning topics you may have missed.
 
 You can get direct Links for each day from below :
-  - **[Day 1][day1]** ->   ( [Basic DataTypes][Day1Code1],  [Boolean DataType][Day1Code2],  [Operators Arithmetic][day1code3],  [Operators Logical][day1code4] )
+  - **[Day 1][day1]** ->   ( [Basic DataTypes][Day1Code1],  [Boolean DataType][Day1Code2],  [Arithmetic Operators][day1code3],  [Logical Operators][day1code4] )
 
 
 
