@@ -6,6 +6,8 @@ You can get direct Links for each day from below :
   - **[Day 1][day1]** -> [Theory][day1ppt]   ( [Basic DataTypes][day1code1], [Boolean DataType][day1code2], [Arithmetic Operators][day1code3], [Logical Operators][day1code4] )
   - **[Day 2][day2]** -> [Theory][day2ppt]   ( Nothing to show here Topic => Packages )
   - **[Day 3][day3]** -> [Theory][day3ppt]   ( [Class Basics][day3code1],  [Getters Setters][day3code2],  [Main Class][day3code3] )
+  - **[Day 4][day4]** -> [Theory][day4ppt]   ( [String Basics][day4code1],  [concat() length()][day4code2],  [toUpperCase() toLowerCase()][day4code3],  [contains() indexOf()][day4code4] )
+  
 
 
 
@@ -53,6 +55,20 @@ You can get direct Links for each day from below :
 [day3code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class3/Cat.java
 
 [day3code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class3/MainClass.java
+
+
+
+[day4]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class4>
+
+[day4ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class4/Class4.pptx>
+
+[day4code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class4/StringBasics.java
+
+[day4code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class4/StringMethod1.java
+
+[day4code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class4/StringMethod2.java
+
+[day4code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class4/StringMethod3.java
 
 
 [instagram]: <https://instagram.com/nextgencoder>
