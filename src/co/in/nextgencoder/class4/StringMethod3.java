@@ -11,7 +11,6 @@ public class StringMethod3 {
 		
 		System.out.println(isWordInString); // true
 		
-		
 		// indexOf() = return index of another string inside the string
 		// indexing starts from 0
 		
@@ -23,8 +22,8 @@ public class StringMethod3 {
 		int endOfWord = (indexOfWord + (lengthOfWord-1));
 		
 		
-		System.out.println(" start of word " + indexOfWord);
-		System.out.println(" end of word " + endOfWord);
+		System.out.println("start of word " + indexOfWord);
+		System.out.println("end of word " + endOfWord);
 		
 	}
 
