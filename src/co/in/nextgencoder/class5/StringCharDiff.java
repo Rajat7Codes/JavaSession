@@ -6,6 +6,8 @@ public class StringCharDiff {
 		String str1 = new String("Hii");
 		String str2 = "Hii";
 		
+
+		System.out.println( str1 == str2); // false
 		// String isEquals()
 		System.out.println( str1.equals(str2)); // true
 		
