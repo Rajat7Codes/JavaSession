@@ -7,6 +7,7 @@ You can get direct Links for each day from below :
   - **[Day 2][day2]** -> [Theory][day2ppt]   ( Nothing to show here Topic => Packages )
   - **[Day 3][day3]** -> [Theory][day3ppt]   ( [Class Basics][day3code1],  [Getters Setters][day3code2],  [Main Class][day3code3] )
   - **[Day 4][day4]** -> [Theory][day4ppt]   ( [String Basics][day4code1],  [concat() length()][day4code2],  [toUpperCase() toLowerCase()][day4code3],  [contains() indexOf()][day4code4] )
+  - **[Day 5][day5]** -> [Theory][day5ppt]   ( [startsWith() endsWith()][day5code1],  [replace()][day5code2],  [trim()][day5code3],  [String and char][day5code4],  [charAt()][day5code5],  [split()][day5code6],  [join()][day5code7] ) )
   
 
 
@@ -69,6 +70,26 @@ You can get direct Links for each day from below :
 [day4code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class4/StringMethod2.java
 
 [day4code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class4/StringMethod3.java
+
+
+
+[day5]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class5>
+
+[day5ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class5/Class5.pptx>
+
+[day5code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringMethod4.java
+
+[day5code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringMethod5.java
+
+[day5code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringMethod6.java
+
+[day5code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringCharDiff.java
+
+[day5code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringMethod7.java
+
+[day5code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringMethod8.java
+
+[day5code7]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringMethod9.java
 
 
 [instagram]: <https://instagram.com/nextgencoder>
