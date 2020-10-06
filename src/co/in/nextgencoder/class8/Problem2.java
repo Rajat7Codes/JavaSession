@@ -33,7 +33,6 @@ public class Problem2 {
 		int totalSeasons = numSum + numWin + numRainy;
 		
 		for( int i=0; i<totalSeasons; i++) {
-			
 			// summer	0
 			// winter	1
 			// rainy	2
