@@ -95,4 +95,59 @@ You can get direct Links for each day from below :
 [day5code7]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class5/StringMethod9.java
 
 
+
+[day6]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class6>
+
+[day6ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class6/Class6.pptx>
+
+[day6code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class6/Problem1.java
+
+[day6code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class6/Problem2.java
+
+[day6code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class6/Problem3.java
+
+
+
+[day7]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class7>
+
+[day7ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class7/Class7.pptx>
+
+[day7code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/IntegerBasics.java
+
+[day7code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/IntegerMethod1.java
+
+[day7code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/TryCatchBasics.java
+
+[day7code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/IntegerMethod2.java
+
+[day7code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/IntegerConstant.java
+
+[day7code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/LongDemo.java
+
+[day7code7]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/Problem1.java
+
+[day7code8]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/Problem2.java
+
+
+
+[day8]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class8>
+
+[day8ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class8/Class8.pptx>
+
+[day8code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/Problem1.java
+
+[day8code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/Problem2.java
+
+[day8code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/ArrayDemo.java
+
+[day8code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/IterationArrays.java
+
+[day8code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/Problem3.java
+
+[day8code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/Problem4.java
+
+
+
+
+
 [instagram]: <https://instagram.com/nextgencoder>
