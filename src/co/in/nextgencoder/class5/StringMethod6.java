@@ -9,7 +9,7 @@ public class StringMethod6 {
 
 		// trim() - front and rear blank / 
 		// unwanted spaces remove 
-		System.out.println(str.trim());  // =>Hello World
+		System.out.println( str.trim());  // =>Hello World
 	}
 
 }

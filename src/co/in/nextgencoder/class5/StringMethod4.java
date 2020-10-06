@@ -22,7 +22,7 @@ public class StringMethod4 {
 		
 		
 		
-		
+		// url valid or not
 		String input = "www.google.com";
 
 		boolean startsWithWwwOrNot = input.startsWith("www.");

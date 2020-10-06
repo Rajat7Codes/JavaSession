@@ -23,6 +23,7 @@ public class StringMethod9 {
 		
 		System.out.println(date);
 		//  02/10/2020
+				
 	}
 
 }

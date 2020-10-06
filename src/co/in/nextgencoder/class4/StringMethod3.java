@@ -14,7 +14,7 @@ public class StringMethod3 {
 		// indexOf() = return index of another string inside the string
 		// indexing starts from 0
 		
-		//	 0123456789
+		//	 0123456789 
 		//   HelloWorldProgram
 		
 		int indexOfWord = str.indexOf("World"); // 5

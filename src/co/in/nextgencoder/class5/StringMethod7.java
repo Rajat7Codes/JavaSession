@@ -9,18 +9,18 @@ public class StringMethod7 {
 
 		// char str.charAt( int index)
 		// return character of the string from given index
-		char ch = str.charAt(6);
+		char ch = str.charAt(6);   // m
 		
 		// System.out.println(ch);   // W
 		
 		
 		int startIndex = 0; // 0
 		int lastIndex = str.length()-1;  // 6
-		int middleIndex = ( str.length()-1 ) /2;  // 3
+		int middleIndex = lastIndex/2;  // 3
 		
-		char startChar = str.charAt( startIndex);
-		char lastChar = str.charAt( lastIndex);
-		char middleChar = str.charAt( middleIndex);
+		char startChar = str.charAt( startIndex);  // P
+		char lastChar = str.charAt( lastIndex);	// m
+		char middleChar = str.charAt( middleIndex);	//g
 
 		System.out.println( "Starting Char ==> "+startChar);  // P
 		System.out.println( "Ending Char ==> "+lastChar);	// m

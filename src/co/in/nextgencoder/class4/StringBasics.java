@@ -24,7 +24,7 @@ public class StringBasics {
 
 		
 		// Different ways of creating string
-		String string0 = new String( new char[] { 'a'});
+		String string0 = new String( new char[] { 'a'});  // char[] -> String
 		String string1 = "Hii";
 		String string2 = new String("Hii");
 
