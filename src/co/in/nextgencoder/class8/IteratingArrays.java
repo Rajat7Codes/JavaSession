@@ -1,6 +1,6 @@
 package co.in.nextgencoder.class8;
 
-public class IterationArrays {
+public class IteratingArrays {
 
 	public static void main(String[] args) {
 
