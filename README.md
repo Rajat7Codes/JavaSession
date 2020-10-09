@@ -13,15 +13,15 @@ You can get direct Links for each day from below :
   
   - **[Day 5][day5]** -> [Theory][day5ppt]   ( [startsWith() endsWith()][day5code1],  [replace()][day5code2],  [trim()][day5code3],  [String and char][day5code4],  [charAt()][day5code5],  [split()][day5code6],  [join()][day5code7] ) 
   
-  - **[Day 6][day6]** -> [Theory][day6ppt]   ( [String Practice Problem 1][day6code1], [String Practice Problem 2][day6code2], [String Practice Problem 3][day6code3] ) 
+  - **[Day 6][day6]** -> [Theory][day6ppt]   ( [String Practice Problem 1][day6code1],  [String Practice Problem 2][day6code2],  [String Practice Problem 3][day6code3] ) 
   
-  - **[Day 7][day7]** -> [Theory][day7ppt]   ( [Integer Basics][day7code1], [min() max()][day7code2], [try catch][day7code3], [parseInt()][day7code4], [MAX_VALUE MIN_VALUE][day7code5] [Using Long][day7code6], [Integer Practice Problem 1][day7code7], [Integer Practice Problem 2][day7code8] ) 
+  - **[Day 7][day7]** -> [Theory][day7ppt]   ( [Integer Basics][day7code1],  [min() max()][day7code2],  [try catch][day7code3],  [parseInt()][day7code4],  [MAX_VALUE MIN_VALUE][day7code5],  [Using Long][day7code6],  [Integer Practice Problem 1][day7code7],  [Integer Practice Problem 2][day7code8] ) 
   
-  - **[Day 8][day8]** -> [Theory][day8ppt]   ( [Integer Practice Problem 1][day8code1], [Integer Practice Problem 2][day8code2], [Array Basics][day8code3], [Iterating Array][day8code4], [Array Practice Problem 1][day8code5], [Array Practice Problem 2][day8code6] ) 2][day7code8] ) 
+  - **[Day 8][day8]** -> [Theory][day8ppt]   ( [Integer Practice Problem 1][day8code1],  [Integer Practice Problem 2][day8code2],  [Array Basics][day8code3], [Iterating Array][day8code4],  [Array Practice Problem 1][day8code5],  [Array Practice Problem 2][day8code6] ) 
   
-  - **[Day 9][day9]** -> [Theory][day9ppt]   ( [Array Practice Problem 3][day9code1], [ Arrays.sort()][day9code2], [ Arrays.toString()][day9code3], [ Arrays.fill()][day9code4], [ Arrays.binarySearch()][day9code5]) 
+  - **[Day 9][day9]** -> [Theory][day9ppt]   ( [Array Practice Problem 3][day9code1],  [ Arrays.sort()][day9code2],  [ Arrays.toString()][day9code3],  [ Arrays.fill()][day9code4],  [ Arrays.binarySearch()][day9code5]) 
   
-  - **[Day 10][day10]** -> [Theory][day10ppt]   ( [Multi-Dimensional Array Basics][day10code1], [ Iterating 2D Array][day10code2], [ 2D Array Practice Problem 1][day10code3], [ 2D Array Practice Problem 2][day9code4]) 
+  - **[Day 10][day10]** -> [Theory][day10ppt]   ( [Multi-Dimensional Array Basics][day10code1],  [ Iterating 2D Array][day10code2],  [ 2D Array Practice Problem 1][day10code3],  [ 2D Array Practice Problem 2][day9code4]) 
   
 
 
