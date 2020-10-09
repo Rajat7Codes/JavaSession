@@ -4,13 +4,24 @@ This repository consists of every source files I will be creating for the Java S
 
 You can get direct Links for each day from below :
   - **[Day 1][day1]** -> [Theory][day1ppt]   ( [Basic DataTypes][day1code1], [Boolean DataType][day1code2], [Arithmetic Operators][day1code3], [Logical Operators][day1code4] )
+  
   - **[Day 2][day2]** -> [Theory][day2ppt]   ( Nothing to show here Topic => Packages )
+  
   - **[Day 3][day3]** -> [Theory][day3ppt]   ( [Class Basics][day3code1],  [Getters Setters][day3code2],  [Main Class][day3code3] )
+  
   - **[Day 4][day4]** -> [Theory][day4ppt]   ( [String Basics][day4code1],  [concat() length()][day4code2],  [toUpperCase() toLowerCase()][day4code3],  [contains() indexOf()][day4code4] )
+  
   - **[Day 5][day5]** -> [Theory][day5ppt]   ( [startsWith() endsWith()][day5code1],  [replace()][day5code2],  [trim()][day5code3],  [String and char][day5code4],  [charAt()][day5code5],  [split()][day5code6],  [join()][day5code7] ) 
-  - **[Day 6][day6]** -> [Theory][day6ppt]   ( [String Practice Problem 1][day6code1], [String Practice Problem 2][day6code2], [String Practice Problem 3][day6code3] ) 
-  - **[Day 7][day7]** -> [Theory][day7ppt]   ( [Integer Basics][day7code1], [min() max()][day7code2], [try catch][day7code3], [parseInt()][day7code4], [MAX_VALUE MIN_VALUE][day7code5] [Using Long][day7code6], [Integer Practice Problem 1][day7code7], [Integer Practice Problem 2][day7code8] ) 
-  - **[Day 8][day8]** -> [Theory][day8ppt]   ( [Integer Practice Problem 1][day8code1], [Integer Practice Problem 2][day8code2], [Array Basics][day8code3], [Iterating Array][day8code4], [Array Practice Problem 1][day8code5], [Array Practice Problem 2][day8code6] ) 
+  
+  - **[Day 6][day6]** -> [Theory][day6ppt]   ( [String Practice Problem 1][day6code1],  [String Practice Problem 2][day6code2],  [String Practice Problem 3][day6code3] ) 
+  
+  - **[Day 7][day7]** -> [Theory][day7ppt]   ( [Integer Basics][day7code1],  [min() max()][day7code2],  [try catch][day7code3],  [parseInt()][day7code4],  [MAX_VALUE MIN_VALUE][day7code5],  [Using Long][day7code6],  [Integer Practice Problem 1][day7code7],  [Integer Practice Problem 2][day7code8] ) 
+  
+  - **[Day 8][day8]** -> [Theory][day8ppt]   ( [Integer Practice Problem 1][day8code1],  [Integer Practice Problem 2][day8code2],  [Array Basics][day8code3], [Iterating Array][day8code4],  [Array Practice Problem 1][day8code5],  [Array Practice Problem 2][day8code6] ) 
+  
+  - **[Day 9][day9]** -> [Theory][day9ppt]   ( [Array Practice Problem 3][day9code1],  [ Arrays.sort()][day9code2],  [ Arrays.toString()][day9code3],  [ Arrays.fill()][day9code4],  [ Arrays.binarySearch()][day9code5]) 
+  
+  - **[Day 10][day10]** -> [Theory][day10ppt]   ( [Multi-Dimensional Array Basics][day10code1],  [ Iterating 2D Array][day10code2],  [ 2D Array Practice Problem 1][day10code3],  [ 2D Array Practice Problem 2][day9code4]) 
   
 
 
@@ -140,13 +151,39 @@ You can get direct Links for each day from below :
 
 [day8code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/ArrayDemo.java
 
-[day8code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/IterationArrays.java
+[day8code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/IteratingArrays.java
 
 [day8code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/Problem3.java
 
 [day8code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class8/Problem4.java
 
 
+
+[day9]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class9>
+
+[day9ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class9/Class9.pptx>
+
+[day9code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class9/Problem1.java
+
+[day9code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class9/ArraysMethods1.java
+
+[day9code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class9/ArraysMethods2.java
+
+[day9code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class9/ArraysMethods3.java
+
+[day9code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class9/ArraysMethods4.java
+
+
+
+[day10]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class10>
+
+[day10ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class10/Class10.pptx>
+
+[day10code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/MultiDimensionalArray.java
+
+[day10code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem1.java
+
+[day10code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem2.java
 
 
 
