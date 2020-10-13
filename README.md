@@ -23,6 +23,10 @@ You can get direct Links for each day from below :
   
   - **[Day 10][day10]** -> [Theory][day10ppt]   ( [Multi-Dimensional Array Basics][day10code1],  [ Iterating 2D Array][day10code2],  [ 2D Array Practice Problem 1][day10code3],  [ 2D Array Practice Problem 2][day10code4]) 
   
+  - **[Day 11][day11]** -> [Theory][day11ppt]   ( [Facebook Challenge Spiral Matrix][day11code1]) 
+  
+  - **[Day 12][day12]** -> [Theory][day12ppt]   ( [Array Vs ArrayList][day12code1],  [ArrayList Basics][day12code2],  [ArrayList Methods 1][day12code3]) 
+  
 
 
 
@@ -186,6 +190,26 @@ You can get direct Links for each day from below :
 [day10code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem1.java
 
 [day10code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem2.java
+
+
+
+[day11]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class11>
+
+[day11ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class11/Class11.pptx>
+
+[day11code1]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class11/SpiralMatrix.java>
+
+
+
+[day12]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class12>
+
+[day12ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class12/Class12.pptx>
+
+[day12code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class12/ArrayVsArrayList.java
+
+[day12code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class12/ArrayListBasics.java
+
+[day12code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class12/ArrayListMethods1.java
 
 
 
