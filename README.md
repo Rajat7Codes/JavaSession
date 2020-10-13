@@ -21,7 +21,7 @@ You can get direct Links for each day from below :
   
   - **[Day 9][day9]** -> [Theory][day9ppt]   ( [Array Practice Problem 3][day9code1],  [ Arrays.sort()][day9code2],  [ Arrays.toString()][day9code3],  [ Arrays.fill()][day9code4],  [ Arrays.binarySearch()][day9code5]) 
   
-  - **[Day 10][day10]** -> [Theory][day10ppt]   ( [Multi-Dimensional Array Basics][day10code1],  [ Iterating 2D Array][day10code2],  [ 2D Array Practice Problem 1][day10code3],  [ 2D Array Practice Problem 2][day9code4]) 
+  - **[Day 10][day10]** -> [Theory][day10ppt]   ( [Multi-Dimensional Array Basics][day10code1],  [ Iterating 2D Array][day10code2],  [ 2D Array Practice Problem 1][day10code3],  [ 2D Array Practice Problem 2][day10code4]) 
   
 
 
@@ -181,9 +181,11 @@ You can get direct Links for each day from below :
 
 [day10code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/MultiDimensionalArray.java
 
-[day10code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem1.java
+[day10code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Iterating2DArray.java
 
-[day10code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem2.java
+[day10code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem1.java
+
+[day10code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class10/Problem2.java
 
 
 
