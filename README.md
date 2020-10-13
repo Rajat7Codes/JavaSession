@@ -23,7 +23,7 @@ You can get direct Links for each day from below :
   
   - **[Day 10][day10]** -> [Theory][day10ppt]   ( [Multi-Dimensional Array Basics][day10code1],  [ Iterating 2D Array][day10code2],  [ 2D Array Practice Problem 1][day10code3],  [ 2D Array Practice Problem 2][day10code4]) 
   
-  - **[Day 11][day11]** -> [Theory][day11ppt]   ( [Facebook Challenge Spiral Model][day11code1]) 
+  - **[Day 11][day11]** -> [Theory][day11ppt]   ( [Facebook Challenge Spiral Matrix][day11code1]) 
   
   - **[Day 12][day12]** -> [Theory][day12ppt]   ( [Array Vs ArrayList][day12code1],  [ArrayList Basics][day12code2],  [ArrayList Methods 1][day12code3]) 
   
@@ -197,7 +197,7 @@ You can get direct Links for each day from below :
 
 [day11ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class11/Class11.pptx>
 
-[day11code1]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class11/SpiralModel.java>
+[day11code1]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class11/SpiralMatrix.java>
 
 
 
