@@ -1,5 +1,9 @@
 package co.in.nextgencoder.class10;
 
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.LinkedList;
+
 public class Problem1 {
 
 	public static void main(String[] args) {
@@ -44,6 +48,8 @@ public class Problem1 {
 
 			}
 		}
+		
+
 		
 //		1
 //		5
