@@ -29,6 +29,8 @@ You can get direct Links for each day from below :
   
   - **[Day 13][day13]** -> [Theory][day13ppt]   ( [ArrayList Problem 1][day13code1],  [contains() indexOf() size() isEmpty()][day13code2],  [ArrayList Problem 2][day13code3],  [Iterating ArrayList][day13code4],  [ArrayList Problem 3][day13code5],  [ArrayList Problem 4][day13code6]) 
   
+  - **[Day 14][day14]** -> [Theory][day14ppt]   ( [remove() clear()][day14code1],  [ArrayList Problem 5][day14code2],  [ArrayList Problem 6][day14code3]) 
+  
 
 
 
@@ -217,7 +219,7 @@ You can get direct Links for each day from below :
 
 [day13]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class13>
 
-[day13ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class13/Class12.pptx>
+[day13ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class13/Class13.pptx>
 
 [day13code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/Problem1.java
 
@@ -230,6 +232,18 @@ You can get direct Links for each day from below :
 [day13code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/Problem3.java
 
 [day13code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/Problem4.java
+
+
+
+[day14]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class14>
+
+[day14ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class14/Class14.pptx>
+
+[day14code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class14/ArrayListMethods3.java
+
+[day14code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class14/Problem1.java
+
+[day14code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class14/Problem2.java
 
 
 
