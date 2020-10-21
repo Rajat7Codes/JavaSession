@@ -27,6 +27,8 @@ You can get direct Links for each day from below :
   
   - **[Day 12][day12]** -> [Theory][day12ppt]   ( [Array Vs ArrayList][day12code1],  [ArrayList Basics][day12code2],  [ArrayList Methods 1][day12code3]) 
   
+  - **[Day 13][day13]** -> [Theory][day13ppt]   ( [ArrayList Problem 1][day13code1],  [contains() indexOf() size() isEmpty()][day13code2],  [ArrayList Problem 2][day13code3],  [Iterating ArrayList][day13code4],  [ArrayList Problem 3][day13code5],  [ArrayList Problem 4][day13code6]) 
+  
 
 
 
@@ -210,6 +212,24 @@ You can get direct Links for each day from below :
 [day12code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class12/ArrayListBasics.java
 
 [day12code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class12/ArrayListMethods1.java
+
+
+
+[day13]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class13>
+
+[day13ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class13/Class12.pptx>
+
+[day13code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/Problem1.java
+
+[day13code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/ArrayListMethods2.java
+
+[day13code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/Problem2.java
+
+[day13code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/ArrayListIteration.java
+
+[day13code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/Problem3.java
+
+[day13code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class13/Problem4.java
 
 
 
