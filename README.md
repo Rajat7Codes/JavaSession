@@ -35,6 +35,8 @@ You can get direct Links for each day from below :
   
   - **[Day 16][day16]** -> [Theory][day16ppt]   ( [Input Basics][day16code1],  [\n Escaping by nextLine()][day16code2],  [Multi Inputs 1][day16code3],  [Multi Inputs 2][day16code4],  [Multi Inputs 3][day16code5]) 
   
+  - **[Day 17][day17]** -> [Theory][day17ppt]   ( [TCS NQT Mock Challenge][day17code1],  [Accenture Problem][day17code2],  [How to Use Method Platform][day17code3]) 
+  
 
 
 
@@ -282,6 +284,18 @@ You can get direct Links for each day from below :
 [day16code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/InputDemo4.java
 
 [day16code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/InputDemo5.java
+
+
+
+[day17]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class17>
+
+[day17ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class17/Class17.pptx>
+
+[day17code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class17/TcsNqtDryRunCheck.java
+
+[day17code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class17/AccentureProblem.java
+
+[day17code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class17/MethodPlatform.java
 
 
 
