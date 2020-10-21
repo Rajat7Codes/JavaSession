@@ -33,6 +33,8 @@ You can get direct Links for each day from below :
   
   - **[Day 15][day15]** -> [Theory][day15ppt]   ( [2D ArrayList][day15code1],  [Stack][day15code2],  [Queue & DoubleEndedQueue][day15code3],  [Set][day15code4],  [Map][day15code5],  [Tree][day15code6]) 
   
+  - **[Day 16][day16]** -> [Theory][day16ppt]   ( [Input Basics][day16code1],  [\n Escaping by nextLine()][day16code2],  [Multi Inputs 1][day16code3],  [Multi Inputs 2][day16code4],  [Multi Inputs 3][day16code5]) 
+  
 
 
 
@@ -264,6 +266,22 @@ You can get direct Links for each day from below :
 [day15code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/MapDemo.java
 
 [day15code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/TreeDemo.java
+
+
+
+[day16]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class16>
+
+[day16ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class16/Class16.pptx>
+
+[day16code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo1.java
+
+[day16code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo2.java
+
+[day16code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo3.java
+
+[day16code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo4.java
+
+[day16code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo5.java
 
 
 
