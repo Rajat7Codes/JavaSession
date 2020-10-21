@@ -7,11 +7,12 @@ import java.util.Scanner;
 public class MethodPlatform {
 
 	public static void main(String[] args) {
-
-		// String = inputString => bbadbbababb
-		// String = inputString => t
-		// String = outputString => ttadttatatt
 	
+		/*
+		 * This main function will be auto generated 
+		 * you don't have to code in this main function
+		 */
+		
 		Scanner sc = new Scanner(System.in);
 		String input = sc.nextLine();
 		String replacement = sc.nextLine();
@@ -21,6 +22,9 @@ public class MethodPlatform {
 		System.out.println( output);
 	}
 
+	
+	
+	//	You can only code in the below function
 	
 	// return Type     ( inputs.....)
 	private static String replaceMaxOccurance(String input, String replacement) {

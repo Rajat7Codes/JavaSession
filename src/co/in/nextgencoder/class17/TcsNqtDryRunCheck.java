@@ -2,10 +2,20 @@ package co.in.nextgencoder.class17;
 
 import java.util.Scanner;
 
-public class TCSDRC {
+public class TcsNqtDryRunCheck {
 
 	public static void main(String[] args) {
-
+		
+		
+		/*
+		 * Take inputs as per given length 
+		 * then print multiplication of them
+		 * 
+		 * 
+		 * Input : 4  1  3  5  2
+		 * Output : 30
+		 */
+		
 		Scanner scan = new Scanner( System.in);
 		int n = scan.nextInt(); // total numbers
 		

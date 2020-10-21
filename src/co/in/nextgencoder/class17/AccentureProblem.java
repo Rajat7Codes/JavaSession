@@ -8,6 +8,16 @@ public class AccentureProblem {
 	public static void main(String[] args) {
 
 		
+		/*
+		 * Replace most frequently repeated 
+		 * character with given input character
+		 * 
+		 * Input : 		bbadbbababb  	t
+		 * Output : 	ttadttatatt
+		 * 
+		 */
+		
+		
 		String input = "bbadbbababb";
 		// b = 7 most repeated
 		// a = 3
