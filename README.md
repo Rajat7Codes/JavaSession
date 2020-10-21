@@ -255,15 +255,15 @@ You can get direct Links for each day from below :
 
 [day15code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/TwoDArrayList.java
 
-[day15code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/Stack.java
+[day15code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/StackDemo.java
 
-[day15code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/Queue.java
+[day15code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/QueueDemo.java
 
-[day15code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/Set.java
+[day15code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/SetDemo.java
 
-[day15code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/Map.java
+[day15code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/MapDemo.java
 
-[day15code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/Tree.java
+[day15code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class15/TreeDemo.java
 
 
 
