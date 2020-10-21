@@ -6,6 +6,22 @@ public class Problem2 {
 
 	public static void main(String[] args) {
 		
+		
+		/*
+		 * There are 5 birds numbered from 1 to 5 
+		 * count number of times they appeared
+		 * 
+		 * 	Input :  1, 4, 2, 3, 4, 5, 2, 3, 4
+		 *  Output : 1  1 
+		 *  		 2  2  
+		 *  		 3  2  
+		 *  		 4  3 
+		 *  		 5  1
+		 */
+		  
+		 
+
+		
 		// Problem with this solution
 		// if total birds are more than 5 or not mentioned
 

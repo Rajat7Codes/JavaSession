@@ -6,6 +6,16 @@ public class Problem1 {
 
 	public static void main(String[] args) {
 		
+		
+		/*
+		 * There are 10 numbers given in a list 
+		 * remove duplicates from given arraylist
+		 * 
+		 * 	Input : 1, 4, 7, 2, 4, 6 , 7, 3 
+		 * 	Output : 1, 4, 7, 2, 6, 3
+		 */
+		
+		
 		ArrayList<String> list = new ArrayList<String>();
 		ArrayList<String> outputList = new ArrayList<String>();
 
