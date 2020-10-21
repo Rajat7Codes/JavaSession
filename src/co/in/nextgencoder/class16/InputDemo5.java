@@ -2,13 +2,17 @@ package co.in.nextgencoder.class16;
 
 import java.util.Scanner;
 
-public class InputDemo4 {
+public class InputDemo5 {
 
 	public static void main(String[] args) {
 		
 		/*
-		 * Get Input of numbers until -1 occurs
+		 * Get Inputs based on length given
 		 * and then print addition of them
+		 * 
+		 * Input : 5  1 2 3 4 5
+		 * Explanation : 5 is length then 5 inputs are taken 
+		 * Output : 15
 		 */
 
 		// unlimited elements
@@ -16,13 +20,12 @@ public class InputDemo4 {
 		
 		Scanner scanner = new Scanner( System.in);
 		
+		int inputLength = scanner.nextInt(); 
+		
 		int sum = 0;
 		
-		while( true) {
+		for( int i=0; i<inputLength; i++) {
 			int temp = scanner.nextInt();
-			
-			if( temp == -1) break;
-			
 			sum += temp;
 		}
 		

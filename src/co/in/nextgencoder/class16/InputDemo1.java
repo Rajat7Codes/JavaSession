@@ -6,6 +6,8 @@ public class InputDemo1 {
 
 	public static void main(String[] args) {
 		
+		// Addition of two numbers
+		
 		// Creates a input scanner
 		Scanner scan = new Scanner( System.in);
 		

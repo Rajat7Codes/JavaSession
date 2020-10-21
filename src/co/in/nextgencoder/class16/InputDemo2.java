@@ -7,6 +7,8 @@ public class InputDemo2 {
 	public static void main(String[] args) {
 
 		
+		// How to solve \n escaping problem
+		
 		Scanner scan = new Scanner( System.in);
 		
 		// next
@@ -19,9 +21,9 @@ public class InputDemo2 {
 		// 10.5 
 		// Hello
 		
-//		Hello
-//		10.5
-//		10
+		//		Hello
+		//		10.5
+		//		10
 		
 		System.out.println( input3);
 		System.out.println( input2);
