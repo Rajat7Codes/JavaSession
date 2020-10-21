@@ -273,15 +273,15 @@ You can get direct Links for each day from below :
 
 [day16ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class16/Class16.pptx>
 
-[day16code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo1.java
+[day16code1]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/InputDemo1.java
 
-[day16code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo2.java
+[day16code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/InputDemo2.java
 
-[day16code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo3.java
+[day16code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/InputDemo3.java
 
-[day16code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo4.java
+[day16code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/InputDemo4.java
 
-[day16code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/inputDemo5.java
+[day16code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class16/InputDemo5.java
 
 
 
