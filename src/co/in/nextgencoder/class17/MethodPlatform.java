@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class MethodPlatform1 {
+public class MethodPlatform {
 
 	public static void main(String[] args) {
 

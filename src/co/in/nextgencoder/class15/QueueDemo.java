@@ -7,8 +7,6 @@ public class QueueDemo {
 
 	public static void main(String[] args) {
 
-
-		
 		PriorityQueue<Integer> queue = new PriorityQueue<Integer>();
 
 		queue.add( 1);
@@ -18,12 +16,15 @@ public class QueueDemo {
 		queue.add( 5);
 		queue.add( 6);
 		
+		// FIFO -> First In First Out
+		// Element added first will get removed first
+		
 		
 		System.out.println( queue);
 		// [1, 2, 3, 4, 5, 6]
 		
 		
-		
+		// poll removes first element
 		System.out.println( queue.poll());
 		// 1
 		
@@ -31,6 +32,9 @@ public class QueueDemo {
 		System.out.println( queue);
 		// [2, 4, 3, 6, 5]
 		
+		
+		// It has two ends so adding and 
+		// removing is possible from both ends
 		
 		ArrayDeque<Integer> dQueue = new ArrayDeque<Integer>();
 		
@@ -44,8 +48,11 @@ public class QueueDemo {
 		System.out.println( dQueue);
 		// [ 1, 2, 3, 4, 5, 6]
 		
+		// removes from start
 		dQueue.pollFirst(); // 1
 		// [ 2, 3, 4, 5, 6]
+		
+		// removes from end
 		dQueue.pollLast(); // 6
 		// [ 2, 3, 4, 5]
 		
