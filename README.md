@@ -37,6 +37,8 @@ You can get direct Links for each day from below :
   
   - **[Day 17][day17]** -> [Theory][day17ppt]   ( [TCS NQT Mock Challenge][day17code1],  [Accenture Problem][day17code2],  [How to Use Method Platform][day17code3]) 
   
+  - **[Day 18][day18]** -> [Theory][day18ppt]   ( Nothing to show here Topic => What's next ) 
+  
 
 
 
@@ -296,6 +298,12 @@ You can get direct Links for each day from below :
 [day17code2]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class17/AccentureProblem.java
 
 [day17code3]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class17/MethodPlatform.java
+
+
+
+[day18]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class18>
+
+[day18ppt]: <https://github.com/Rajat7Codes/JavaSession/tree/master/src/co/in/nextgencoder/class18/Class18.pptx>
 
 
 
