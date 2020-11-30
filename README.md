@@ -147,7 +147,7 @@ You can get direct Links for each day from below :
 
 [day7code4]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/IntegerMethod2.java
 
-[day7code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/IntegerConstant.java
+[day7code5]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/IntegerConstants.java
 
 [day7code6]: https://github.com/Rajat7Codes/JavaSession/blob/master/src/co/in/nextgencoder/class7/LongDemo.java
 
